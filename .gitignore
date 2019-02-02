@@ -1,1 +1,14 @@
-/_site
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+### Ruby ###
+*.gem
+Gemfile.lock
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
