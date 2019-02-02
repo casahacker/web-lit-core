@@ -7,7 +7,7 @@
 
       <title>{{ site.title }}{% if page.title %} : {{ page.title }}{% endif %}</title>
       <meta name="description" content="{{ site.subtitle }}">
-      <link rel="icon" type="image/png" sizes="196x196" href="{{ site.baseurl }}/img/favicon.png?1">
+      <link rel="icon" type="image/png" sizes="196x196" href="{{ site.baseurl }}/images/favicon.png">
 
       <link href="{{ site.baseurl }}/css/mofo-bootstrap.css" rel="stylesheet">
       <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
@@ -24,7 +24,7 @@
             <div class="sidebar-header">
               <a href="{{ site.baseurl }}/">
                 <img src="{{ site.baseurl }}/images/moz-logo-main-rgb.png" alt="Mozilla" class="moz-logo" />
-                <h2>Web Literacy</h2>
+                <h2>Alfabetização Web</h2>
               </a>
               <div>
                 <a class="btn btn-pop" href="https://github.com/{{ site.github.repo }}"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;GitHub</a></i>
@@ -48,12 +48,12 @@
               {% if page.previous.url %}
                 <div class="wrapper">
                   <div class="arrow">←</div>
-                  <div>Previous: <a class="prev" href="/web-lit-core{{page.previous.url}}">{{page.previous.title}}</a></div>
+                  <div>Anterior: <a class="prev" href="/web-lit-core{{page.previous.url}}">{{page.previous.title}}</a></div>
                 </div>
               {% endif %}
               {% if page.next.url %}
                 <div class="wrapper">
-                  <div>Next: <a class="next" href="/web-lit-core{{page.next.url}}">{{page.next.title}}</a></div>
+                  <div>Próximo: <a class="next" href="/web-lit-core{{page.next.url}}">{{page.next.title}}</a></div>
                   <div class="arrow">→</div>
                 </div>
               {% endif %}
@@ -62,8 +62,8 @@
 
             <p class="help-us">
                 <edit></edit>
-                Help us improve content and
-                <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
+                Ajude-nos a melhorar o conteúdo e
+                <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">sugira alterações</a> nesta página.
             </p>
           </div>
         </div>
