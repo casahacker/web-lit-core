@@ -15,7 +15,7 @@ toc:
 ![web design](../images/ux-788002_640.jpg)
 
 #### Descrição
-Nessa discussão e atividade on-line, os alunos exploram e experimentam como o design visual funciona na Web e como os web designers usam suas habilidades para estimular determinados comportamentos. Os alunos comparam e contrastam os elementos visuais e interativos de diferentes páginas e plataformas. Em pares, eles narram e documentam as "jornadas do usuário" por meio de um site – um processo que os web designers da vida real usam para testar e melhorar sites.
+Nessa discussão e atividade on-line, os participantes exploram e experimentam como o design visual funciona na Web e como os web designers usam suas habilidades para estimular determinados comportamentos. Os participantes comparam e contrastam os elementos visuais e interativos de diferentes páginas e plataformas. Em pares, eles narram e documentam as "jornadas do usuário" por meio de um site – um processo que os web designers da vida real usam para testar e melhorar sites.
 
 #### Objetivos da Aprendizagem
 * Explicar como o design visual funciona na web
@@ -53,7 +53,7 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
     * Texto em um determinado tamanho
     * Escolhas de cores
     * Imagens, texto, etc.
-* O(A) facilitador(a) pergunta aos alunos, o que significa projetar algo?
+* O(A) facilitador(a) pergunta aos participantes, o que significa projetar algo?
     * Vamos pensar em design no mundo físico. Vamos pegar os edifícios, por exemplo (o(a) facilitador(a) escolhe dois exemplos contrastantes):
         * casa assombrada/prédio do governo/boate
         * vs. chácara aconchegante/creche/biblioteca?
@@ -63,8 +63,8 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
 * Designers fazem escolhas para criar um resultado – em ação ou sentimento para o usuário. Todos os designers têm planos e intenções.
 * Como usuário, você responde ao design com sentimentos e ações (ou não).
 * O(A) facilitador(a) conecta a discussão sobre os espaços físicos com a Web: como um espaço físico, a maioria dos sites é projetada com uma intenção – há algo que o designer deseja que os usuários façam.
-* Discuta com os alunos ou faça uma atividade de pensar/dupla/compartilhar sobre as seguintes perguntas:
-    * Quais sites você usa com mais frequência? Cada aluno pensa em um site (YouTube, Facebook, Google, Amazon, site da biblioteca, etc.) 
+* Discuta com os participantes ou faça uma atividade de pensar/dupla/compartilhar sobre as seguintes perguntas:
+    * Quais sites você usa com mais frequência? Cada participante pensa em um site (YouTube, Facebook, Google, Amazon, site da biblioteca, etc.) 
     * Qual é o objetivo do site? O que o criador do site pretende que você faça? (Pode ser: comprar coisas, ver anúncios, etc)
     * O que você está fazendo aí? O que você quer fazer?
     * O seu objetivo é diferente do que o designer do site quer? Se sim, como?
@@ -93,7 +93,7 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
 ![amazon home page](../images/amazon.png)
 
 
-* Deixe os alunos olhar e discutir. Aqui estão algumas das coisas que eles ou o(a) facilitador(a) podem mencionar:
+* Deixe os participantes olhar e discutir. Aqui estão algumas das coisas que eles ou o(a) facilitador(a) podem mencionar:
     * No exemplo do Google:
         * O foco é a barra de pesquisa – é quase a única coisa na página.
         * O logotipo colorido do Google aparece contra o fundo branco.
@@ -111,8 +111,8 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
 [5 min]
 * Pergunte aos usuários: quais elementos tornam um site interativo?
 * Os exemplos podem incluir: Links, formulários, barras de pesquisa, botões "curtir", botões "Comprar agora", caixas de comentários, caixas de atualização de status, listas de itens a serem percorridos, *_mouse-overs_* para pop-ups
-* Veja alguns exemplos com os alunos e discuta o que eles vêem. Pergunte aos alunos: como os elementos de design visual (como tamanho, cor, forma, posicionamento) funcionam com elementos de interação?
-* Os alunos podem perceber que os designers usam cor, tamanho e posicionamento para chamar a atenção para os botões que desejam que os usuários pressionem, ou uma barra de pesquisa, etc.
+* Veja alguns exemplos com os participantes e discuta o que eles vêem. Pergunte aos participantes: como os elementos de design visual (como tamanho, cor, forma, posicionamento) funcionam com elementos de interação?
+* Os participantes podem perceber que os designers usam cor, tamanho e posicionamento para chamar a atenção para os botões que desejam que os usuários pressionem, ou uma barra de pesquisa, etc.
 
 ![youtube page with ads](../images/youtube-ads.png)
 
@@ -120,13 +120,13 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
 
 > Dica! Se estiver navegando on-line, você pode tentar alternar para o modo de design responsivo (Ferramentas> Desenvolvedor da Web> Modo de design responsivo), que permite ver como o site aparecerá em diferentes dispositivos. 
 * Quais elementos do site desaparecem quando o espaço da tela é menor e quais ainda estão presentes?
-* Ver um site nesse modo pode ajudar os alunos a entender quais aspectos do site o designer considera mais importantes.
+* Ver um site nesse modo pode ajudar os participantes a entender quais aspectos do site o designer considera mais importantes.
 
 ### Objetivos do Usuário, Metas do Site
 [5 minutos]
 * Vamos considerar as metas que um site (ou a empresa/organização que o site representa) tem para interações em seus sites, em comparação com as metas do usuário. Selecione um site real como um exemplo.
-> Dica! Escolha alguns sites comuns, como o Amazon.com, o YouTube.com ou quaisquer sites usados com frequência na comunidade do seu público. Você pode atribuir os sites ou permitir que os alunos selecionem.
-* Pergunte aos alunos:
+> Dica! Escolha alguns sites comuns, como o Amazon.com, o YouTube.com ou quaisquer sites usados com frequência na comunidade do seu público. Você pode atribuir os sites ou permitir que os participantes selecionem.
+* Pergunte aos participantes:
     * Quais são os objetivos que os usuários podem ter relacionados ao site?
     * Quais são as metas que o site/empresa/organização pode ter?
 * Tente listar três ou mais metas potenciais para cada um. Por exemplo:
@@ -134,13 +134,13 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
     * Um usuário do YouTube.com pode assistir a apenas um único vídeo específico. Ou um usuário também pode querer encontrar muitos vídeos sobre um assunto. E um usuário pode querer enviar seu próprio conteúdo para o YouTube.
 * Os objetivos dos usuários e do site estão em conflito? Como?
 * O que acontece quando as metas do usuário e do site estão em conflito?
-* Explique aos alunos que, ao documentar sua experiência com sites, eles podem ver como o design do site funciona para atingir as metas dos sites e as metas dos usuários... ou não!
+* Explique aos participantes que, ao documentar sua experiência com sites, eles podem ver como o design do site funciona para atingir as metas dos sites e as metas dos usuários... ou não!
 
 ### Investigações e Jornadas 
 [15 minutos]
-* Nesta atividade, os alunos se emparelharão e trabalharão juntos para documentar suas próprias jornadas de usuário com um site específico. O objetivo é perceber como eles estão interagindo com o design do site. Idealmente, cada dupla de alunos deve ter um computador para trabalhar.
-* O(A) facilitador(a) divide o grupo em duplas. O(A) facilitador(a) pode selecionar sites para os alunos trabalharem, ou os alunos podem selecionar seus próprios sites.
-* Peça aos alunos para irem ao site com uma intenção ou objetivo em mente.
+* Nesta atividade, os participantes se emparelharão e trabalharão juntos para documentar suas próprias jornadas de usuário com um site específico. O objetivo é perceber como eles estão interagindo com o design do site. Idealmente, cada dupla de participantes deve ter um computador para trabalhar.
+* O(A) facilitador(a) divide o grupo em duplas. O(A) facilitador(a) pode selecionar sites para os participantes trabalharem, ou os participantes podem selecionar seus próprios sites.
+* Peça aos participantes para irem ao site com uma intenção ou objetivo em mente.
     * Por exemplo: estou indo para a Amazon para pesquisar livros sobre gatinhos; Vou procurar uma aula de introdução ao HTML no YouTube.
 * Uma pessoa da dupla é o usuário que está navegando pelo site e falando em voz alta/contando a história do que está fazendo “ou seja. Vou digitar "gatinhos" na barra de pesquisa ou "vou descer e ler esses comentários"
 * O outro membro do dupla está ouvindo/documentando a jornada do usuário. O ouvinte deve notar e/ou tomar notas sobre a experiência do usuário. 
@@ -154,14 +154,14 @@ O(A) facilitador(a) introduz a ideia de que a web é um espaço projetado. Tudo 
     * O que os incomodou? O que foi divertido?
     * Eles mantiveram seu objetivo original para a sessão, ou foram desviados?
     * No que eles gastaram mais tempo fazendo no site?
-* Cada aluno deve levar de 5 a 7 minutos navegando em um site como usuário e de 5 a 7 minutos documentando a experiência do parceiro(a) como ouvinte/anotador(a).
-> Dica! A versão off-line da atividade acima: Os(As) facilitadores podem imprimir uma página web para os alunos marcarem. É possível fornecer uma página interna e a página inicial do site (para investigar se a página interna ajuda efetivamente o usuário a navegar pelo restante do site). Como consequência, os alunos podem usar uma folha de papel em branco para criar um protótipo de uma página web que efetivamente resolve quaisquer problemas que eles vêem nos folhetos fornecidos.
+* Cada participante deve levar de 5 a 7 minutos navegando em um site como usuário e de 5 a 7 minutos documentando a experiência do parceiro(a) como ouvinte/anotador(a).
+> Dica! A versão off-line da atividade acima: Os(As) facilitadores podem imprimir uma página web para os participantes marcarem. É possível fornecer uma página interna e a página inicial do site (para investigar se a página interna ajuda efetivamente o usuário a navegar pelo restante do site). Como consequência, os participantes podem usar uma folha de papel em branco para criar um protótipo de uma página web que efetivamente resolve quaisquer problemas que eles vêem nos folhetos fornecidos.
 
 ### Reflexão e Revisão
 [5 min]
 * O(A) facilitador(a) conduz uma breve sessão de discussão/reflexão sobre jornadas do usuário.
 * O(A) facilitador(a) explica que as jornadas do usuário são uma ferramenta que os designers usam quando testam sites e aplicativos – eles podem fazer com que os usuários tentem usar o site e documentem o que fazem em cada etapa do processo para ajudar a refinar o design.
-* O que os alunos descobriram no exercício da jornada do usuário?
+* O que os participantes descobriram no exercício da jornada do usuário?
 * O que você notou durante a atividade? O que era novo, inesperado?
 * Você percebeu que o design visual ou elementos de design de interação desempenham um papel no seu comportamento?
 * Você notou alguma tensão entre as coisas que queria fazer ou obter da sua experiência no site e o que o design do site estava sugerindo que você fizesse?

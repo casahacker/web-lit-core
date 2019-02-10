@@ -43,9 +43,9 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 ### Introdução 
 [10 min]
-> Dica! Lembre os alunos de sua experiência com _Tags_ na lição anterior (Recomendo concluir a marcação 101 com os alunos antes desta atividade).
+> Dica! Lembre os participantes de sua experiência com _Tags_ na lição anterior (Recomendo concluir a marcação 101 com os participantes antes desta atividade).
 
-* Explique aos alunos que qualquer página web que você visita é na verdade um arquivo HTML, que é apenas um arquivo de texto – um monte de palavras – com HiperTexto ou Linguagem de Marcação adicionados ao conteúdo. HTML é a linguagem que usamos para escrever _tags_.
+* Explique aos participantes que qualquer página web que você visita é na verdade um arquivo HTML, que é apenas um arquivo de texto – um monte de palavras – com HiperTexto ou Linguagem de Marcação adicionados ao conteúdo. HTML é a linguagem que usamos para escrever _tags_.
 > Dica! Se necessário, forneça uma pequena visita guiada ao navegador, como barra de endereços, botões iniciais, favoritos e histórico.
 * Esses arquivos, às vezes, contêm outros tipos de código, como javascript ou php, o que torna as páginas – quando exibidas no navegador – interativas, chamativas e dinâmicas, puxando o código do navegador.
 * Os arquivos HTML são apenas texto e não são muito bonitos de se ver.
@@ -63,9 +63,9 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 ### Conteúdo e Contação de histórias 
 [20 min]
-> Dica! A próxima parte é divertida e interativa, e ótima para criar uma comunidade de sala de aula amigável e positiva. Mas se você tiver pouco tempo e dar aos alunos a sensação de que eles podem ter sua própria representação na Web NÃO é uma prioridade, você pode fornecer conteúdo pré-digitado como um arquivo .txt e pular para a próxima seção. – “Obter Marcação.” 
+> Dica! A próxima parte é divertida e interativa, e ótima para criar uma comunidade de sala de aula amigável e positiva. Mas se você tiver pouco tempo e dar aos participantes a sensação de que eles podem ter sua própria representação na Web NÃO é uma prioridade, você pode fornecer conteúdo pré-digitado como um arquivo .txt e pular para a próxima seção. – “Obter Marcação.” 
 
-* Escreva sua biografia ou a página "Sobre". Peça aos participantes que se dividam em duplas e se entrevistem sobre suas vidas. Como facilitador(a), mantenha o controle do tempo para garantir que cada aluno tenha tempo igual para a cada história.
+* Escreva sua biografia ou a página "Sobre". Peça aos participantes que se dividam em duplas e se entrevistem sobre suas vidas. Como facilitador(a), mantenha o controle do tempo para garantir que cada participante tenha tempo igual para a cada história.
 
 * Entrevista: peça aos participantes que demorem 5 minutos para contar sua história ou, se não quiserem compartilhar coisas pessoais, eles podem inventar um personagem fictício e contar a história do personagem. Peça ao ouvinte para fazer anotações ou possivelmente gravar em um dispositivo. Solicite que os usuários falem sobre o que é mais importante para eles (ou seu personagem fictício). Ofereça esta lista de perguntas para começar:
   * Qual é o seu nome, idade, outros detalhes?
@@ -76,8 +76,8 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 > Dica! O entrevistador pode fazer perguntas de acompanhamento para obter mais detalhes ou uma história mais completa. Ele ou ela pode fazer perguntas abertas como “por que” sobre as motivações, preferências, planos futuros, para ajudar a extrair mais percepções, ou ele pode fazer perguntas para esclarecer ideias na história.
 
-* Revisão/Edição: Peça a cada aluno que tire as anotações de sua história e as analise – considere adicionar detalhes, pense no que você deixou de fora.
-* Organize e digite: peça aos alunos que digitem suas histórias em um editor de texto básico, certificando-se de usar o “modo de texto simples” (não o modo Rich Text). Ao digitar a história, eles podem considerar a organização e a estruturação da história em um começo, meio e fim. Talvez eles possam pensar em títulos para as seções: “Primeiros Dias” “Dias Atuais” “O que vem a seguir” ou eles podem encontrar outras formas de organizar o conteúdo, se eles falaram mais sobre seções de interesse – “Minhas músicas favoritas”, “lugares favoritos”, etc. A criação dessas seções ajudará a estruturar a biografia para facilitar a leitura como uma página web.
+* Revisão/Edição: Peça a cada participante que tire as anotações de sua história e as analise – considere adicionar detalhes, pense no que você deixou de fora.
+* Organize e digite: peça aos participantes que digitem suas histórias em um editor de texto básico, certificando-se de usar o “modo de texto simples” (não o modo Rich Text). Ao digitar a história, eles podem considerar a organização e a estruturação da história em um começo, meio e fim. Talvez eles possam pensar em títulos para as seções: “Primeiros Dias” “Dias Atuais” “O que vem a seguir” ou eles podem encontrar outras formas de organizar o conteúdo, se eles falaram mais sobre seções de interesse – “Minhas músicas favoritas”, “lugares favoritos”, etc. A criação dessas seções ajudará a estruturar a biografia para facilitar a leitura como uma página web.
 * Dê um título a sua história! Invente um título rápido para sua história ou conteúdo ou escolha algo básico.
 * Crie uma nova pasta no seu computador e chame-a de “xx-paginaweb” usando suas iniciais.
 * Salve sua história na pasta com a extensão .txt. – Dê um título sem espaços ou pontuação que não seja traços ou sublinhados, como “sobre-zm.txt”. Esta é a versão de texto da sua história, o conteúdo bruto.
@@ -87,7 +87,7 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 [10 mins ]
 * Explique aos usuários que eles vão marcar sua história – a versão .html – com HTML, para torná-la pronta para exibição no navegador. Explique que codificar HTML e pensar e escrever conteúdo são duas maneiras diferentes de pensar, eles devem sempre ter conteúdo escrito antes de marcá-lo, em vez de escrever e marcar ao mesmo tempo.
 
-> Dica! Uma ótima maneira de ajudar os alunos a fazer isso, se você tiver acesso ao computador e ao projetor de um(a) instrutor(a), faça a atividade com o seu próprio conteúdo junto com os alunos e projete os resultados para que todos possam ver o que você está fazendo.
+> Dica! Uma ótima maneira de ajudar os participantes a fazer isso, se você tiver acesso ao computador e ao projetor de um(a) instrutor(a), faça a atividade com o seu próprio conteúdo junto com os participantes e projete os resultados para que todos possam ver o que você está fazendo.
 
 * Inicie o arquivo com uma tag doctype – essa é uma das únicas _tags_ que não tem conteúdo dentro, e nenhuma tag de fechamento – é uma tag solitária única, lembrando o navegador, mais uma vez que estamos escrevendo html <!DOCTYPE html>
 * Adicione as _tags_ <html> e </html> que envolvem toda a página – para que tudo dentro dela possa ser marcado com a linguagem de marcação.

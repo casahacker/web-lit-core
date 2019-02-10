@@ -12,7 +12,7 @@ toc:
 ![detective](../images/olloweb-solution-520914-unsplash.jpg)
 
 #### Descrição
-Aprenda a contar a verdade através da ficção enquanto usa a web para investigar a existência do _Kraken_, uma enorme criatura marinha tentacular e perigosa, e como detectar informações erradas e desinformação. Os alunos colaborarão para criar um conjunto de regras para orientá-los na avaliação de fontes da web para resolver uma questão de pesquisa e compará-las a outras listas de verificação.
+Aprenda a contar a verdade através da ficção enquanto usa a web para investigar a existência do _Kraken_, uma enorme criatura marinha tentacular e perigosa, e como detectar informações erradas e desinformação. Os participantes colaborarão para criar um conjunto de regras para orientá-los na avaliação de fontes da web para resolver uma questão de pesquisa e compará-las a outras listas de verificação.
 
 #### Objetivos da Aprendizagem
 * Pesquisar e avaliar informações na web.
@@ -47,16 +47,16 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 ### Introdução
 [15-20 min]
 * Brevemente enquadre e conecte este tópico à uma grande ideia.
-* Pergunte aos alunos:
+* Pergunte aos participantes:
     * Você pesquisa informações na web? Qual foi a última coisa que você pesquisou?
     * Como esse recurso ajuda/muda as coisas para você?
 * Conecte esta discussão com a ideia de que a web é uma fonte rica e complexa para todos os tipos de informação, de muitas fontes diferentes.
-* Facilite uma breve discussão entre seus alunos sobre fontes da web.
+* Facilite uma breve discussão entre seus participantes sobre fontes da web.
     * Tudo que você lê ou assiste on-line é verdade?
     * Como você sabe quando a informação na Internet é confiável?
     * Como você pode dizer quando não é confiável?
 
-> * Dica! Discuta com os alunos a história das notícias falsas _(fake news)_ e peça-lhes que dêem exemplos de notícias falsas do passado e do presente, e porque isso pode parecer mais proeminente hoje em dia (por exemplo, notícias falsas não são novidade, porém por causa das mídias sociais, notícias falsas podem alcançar mais pessoas mais rápido do que e-mails virais puderam fazer no passado.)
+> * Dica! Discuta com os participantes a história das notícias falsas _(fake news)_ e peça-lhes que dêem exemplos de notícias falsas do passado e do presente, e porque isso pode parecer mais proeminente hoje em dia (por exemplo, notícias falsas não são novidade, porém por causa das mídias sociais, notícias falsas podem alcançar mais pessoas mais rápido do que e-mails virais puderam fazer no passado.)
 > * Dica! Discuta a diferença entre informação errada (informação que é falsa) e desinformação (a informação que é falsa e deliberadamente destinada a enganar).
 > * Saliente que podemos prestar atenção ao que estamos percebendo e sentindo on-line e usar essas respostas, além de um conjunto de critérios para nos ajudar a ser melhores detetives da web.
 > * Dica! Um remix disso é falar sobre estratégias de publicidade, tendências, etc, de que a mídia na web é frequentemente projetada para provocar sentimentos específicos.
@@ -78,7 +78,7 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 ### Pesquisando e avaliando evidências 
 [20 minutos]
-* Divida os alunos em grupos de 2 ou 3. Explique que o desafio de cada grupo é examinar as seguintes sete fontes de evidências de que o _Kraken_, uma criatura marinha tentacular de 100 a 120 pés que ataca e afunda navios, é real.
+* Divida os participantes em grupos de 2 ou 3. Explique que o desafio de cada grupo é examinar as seguintes sete fontes de evidências de que o _Kraken_, uma criatura marinha tentacular de 100 a 120 pés que ataca e afunda navios, é real.
 
 ![Kraken attacks ship](../images/kraken.jpg)
 
@@ -93,21 +93,21 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
     * <https://www.greenprophet.com/2013/01/kraken-sea-monster-video/>
     * <https://en.wikipedia.org/wiki/Kraken>
 * Os grupos devem passar 20 minutos pesquisando juntos. O(A) facilitador(a) enquadra essa atividade:
-    * Lembre aos alunos que eles têm uma pergunta bastante específica, "O _Kraken_, uma criatura marinha de tentáculos de 100 a 120 pés que ataca e afunda navios, é real?"
+    * Lembre aos participantes que eles têm uma pergunta bastante específica, "O _Kraken_, uma criatura marinha de tentáculos de 100 a 120 pés que ataca e afunda navios, é real?"
     * Escreva a pergunta e poste-a na sala, certifique-se de que não há dúvidas ou dúvidas sobre essa questão e que isso está claro para todos.
-    * Sugira que os alunos usem a pergunta de pesquisa para orientar seu trabalho.
+    * Sugira que os participantes usem a pergunta de pesquisa para orientar seu trabalho.
     * Distribua folhas de pontuação em branco para acompanhar a avaliação de cada site.
-    * Explique que os alunos devem resumir o conteúdo de cada site em alguns pontos na parte superior da folha – a ideia ou mensagem básica.
-    * Peça aos alunos para listar:
+    * Explique que os participantes devem resumir o conteúdo de cada site em alguns pontos na parte superior da folha – a ideia ou mensagem básica.
+    * Peça aos participantes para listar:
         * as regras acordadas (e qualquer outra que deseje usar) na coluna 1
         * pontuações (mais/menos) na coluna 2
         * notas e comentários na coluna 3 - o que você percebe? Como o site se parece? Como o conteúdo faz você se sentir?
 
-> * Dicas! Encoraje os alunos a falarem através dos seus pensamentos e observações em conjunto enquanto exploram e pontuam.
-> * Dicas! Incentive os alunos a clicar nos sites onde essas histórias foram postadas para mais informações sobre a fonte, o autor, os patrocinadores, etc.
-> * Dicas! Incentive os alunos a pensar sobre a linha do tempo das histórias - quando elas apareceram? Quais são os mais recentes? Como as fontes e histórias estão conectadas?
+> * Dicas! Encoraje os participantes a falarem através dos seus pensamentos e observações em conjunto enquanto exploram e pontuam.
+> * Dicas! Incentive os participantes a clicar nos sites onde essas histórias foram postadas para mais informações sobre a fonte, o autor, os patrocinadores, etc.
+> * Dicas! Incentive os participantes a pensar sobre a linha do tempo das histórias - quando elas apareceram? Quais são os mais recentes? Como as fontes e histórias estão conectadas?
 
-* Peça aos alunos que reflitam sobre o que notaram/sentiram enquanto olhavam para os sites. 
+* Peça aos participantes que reflitam sobre o que notaram/sentiram enquanto olhavam para os sites. 
 [10-20 minutos]
     * Alguma coisa te surpreendeu?
     * Houve alguma diferença entre a manchete e a ideia principal?
@@ -123,14 +123,14 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 ### Detectando habilidades na natureza
 [15-20 min] 
-* Explique aos alunos que eles testaram a lista em um conjunto de recursos selecionados – notícias selecionadas previamente. Agora, eles podem testar suas listas em fontes de notícias e informações que encontram "em estado selvagem".
-* Brainstorm com os alunos, ou atribuir uma questão que é controversa – seja a partir de notícias ou cultura pop.
+* Explique aos participantes que eles testaram a lista em um conjunto de recursos selecionados – notícias selecionadas previamente. Agora, eles podem testar suas listas em fontes de notícias e informações que encontram "em estado selvagem".
+* Brainstorm com os participantes, ou atribuir uma questão que é controversa – seja a partir de notícias ou cultura pop.
 
-> * Dica! Assegure-se de que os alunos formem a pergunta com clareza, concentrando-se em provar ou refutar um fato específico.
+> * Dica! Assegure-se de que os participantes formem a pergunta com clareza, concentrando-se em provar ou refutar um fato específico.
 
-* Peça aos alunos para fazer uma pesquisa na web para encontrar 3 ou 4 fontes diferentes sobre essa controvérsia.
+* Peça aos participantes para fazer uma pesquisa na web para encontrar 3 ou 4 fontes diferentes sobre essa controvérsia.
 * Peça-lhes para usar o mesmo processo na seção anterior para avaliar a reivindicação.
-* Reúna o grupo para compartilhar os resultados. Pergunte aos alunos:
+* Reúna o grupo para compartilhar os resultados. Pergunte aos participantes:
     * Alguns dos resultados foram diferentes ou houve consenso?
     * Quais fontes eram confiáveis? Quais fontes você decidiu que não eram confiáveis?
     * Há algo que você adicionaria ou alteraria na sua lista?
@@ -138,21 +138,21 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 ### Verifique sua Lista de Verificação
 [6 min]
 * Vamos ver como sua lista acima se compara a outras listas e processos de verificação de fatos.
-* Divida os alunos em grupos de 3 a 4 e peça aos alunos que examinem:
+* Divida os participantes em grupos de 3 a 4 e peça aos participantes que examinem:
     * [How to Spot Fake News from FactCheck.org](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
     * [7 Steps to Better Fact Checking from Politifact](http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/)
     * [How to Fact-Check the Atlantic from the Atlantic](https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/)
-* Pergunte aos alunos:
+* Pergunte aos participantes:
     * Como essas listas se comparam à sua própria lista?
     * O que você aprendeu que não sabia antes?
     * E se algo estiver faltando nessas listas?
     * Como você incentivaria os outros a praticar boas técnicas de pesquisa/checagem de fatos?
 
-> * Dica! Explique aos alunos que algumas dessas listas são feitas para e por jornalistas, que escrevem e publicam notícias – antes da Internet, esses eram os “guardiões” _(gatekeepers)_ da informação factual. O que significa ser um porteiro? Os usuários atuais de mídia social – você, se você usa e publica em mídias sociais – também são "guardiões" potenciais de informações factuais?
+> * Dica! Explique aos participantes que algumas dessas listas são feitas para e por jornalistas, que escrevem e publicam notícias – antes da Internet, esses eram os “guardiões” _(gatekeepers)_ da informação factual. O que significa ser um porteiro? Os usuários atuais de mídia social – você, se você usa e publica em mídias sociais – também são "guardiões" potenciais de informações factuais?
 > * Dica! Se o tempo permitir, você pode considerar a adição da seguinte atividade, que explora como falsificar suas próprias notícias: <https://nucleus-network.github.io/missioninfo/activities/fakenews.html#overview>
 
-* Explique aos alunos que há vários sites dedicados a verificação de fatos em notícias, além de informações sobre cultura pop e lendas urbanas. O [Politifact.com](http://www.politifact.com/), [FactCheck.org](https://www.factcheck.org/) e o [Fact Checker Blog](https://www.washingtonpost.com/news/fact-checker/?utm_term=.e09982fe3308) do Washington Post cobrem as notícias. [Snopes.com](http://snopes.com/) abrange notícias, bem como cultura pop.
-* Pergunte aos alunos:
+* Explique aos participantes que há vários sites dedicados a verificação de fatos em notícias, além de informações sobre cultura pop e lendas urbanas. O [Politifact.com](http://www.politifact.com/), [FactCheck.org](https://www.factcheck.org/) e o [Fact Checker Blog](https://www.washingtonpost.com/news/fact-checker/?utm_term=.e09982fe3308) do Washington Post cobrem as notícias. [Snopes.com](http://snopes.com/) abrange notícias, bem como cultura pop.
+* Pergunte aos participantes:
     * Eles já usaram sites como este?
     * Eles estão propensos a usá-los?
     * Como pode avaliar a confiabilidade desses sites?

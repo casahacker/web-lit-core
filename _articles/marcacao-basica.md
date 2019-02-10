@@ -14,7 +14,7 @@ toc:
 ![tagging](../images/code-2434271_640.jpg)
 
 #### Descrição
-Nesta atividade, os alunos exploram como as informações, como texto e imagens, podem ser apresentadas para serem facilmente legíveis/compreensíveis, e como isso funciona na web usando _tags_ HTML. Essa atividade explora como os navegadores funcionam, como as páginas web são estruturadas, a relação entre as _tags_ HTML e o conteúdo.
+Nesta atividade, os participantes exploram como as informações, como texto e imagens, podem ser apresentadas para serem facilmente legíveis/compreensíveis, e como isso funciona na web usando _tags_ HTML. Essa atividade explora como os navegadores funcionam, como as páginas web são estruturadas, a relação entre as _tags_ HTML e o conteúdo.
 
 #### Objetivos da Aprendizagem
 * Descrever como o código HTML é usado para criar páginas web.
@@ -63,8 +63,8 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 (5-7 mins)
 * Para esta atividade, você precisa de dois recursos visuais:
     * 1) a primeira página de um jornal mostrando imagens, títulos, linhas de texto, texto, parágrafos, colunas.
-    * 2) o texto e as imagens da primeira página despojados de toda formatação, na mesma fonte de tamanho, sem parágrafos, colunas, etc, impressos em uma única página. Você pode fazer isso acessando uma cópia digital de um jornal da edição impressa, como o [New York Times](http://www.nytimes.com/pages/todayspaper/index.html), selecionando todo o conteúdo e copiando e colando-o em um Editor de Texto e removendo toda a formatação (através do comando “_make plain text_”). Você pode ter que fazer um pouco de edição extra para remover toda a formatação. O objetivo é mostrar aos alunos uma página inicial típica de um artigo, além do conteúdo como um bloco de texto uniforme e contínuo.
-* Mostre aos alunos as duas páginas; diga-lhes que o conteúdo é o mesmo em ambas as páginas.
+    * 2) o texto e as imagens da primeira página despojados de toda formatação, na mesma fonte de tamanho, sem parágrafos, colunas, etc, impressos em uma única página. Você pode fazer isso acessando uma cópia digital de um jornal da edição impressa, como o [New York Times](http://www.nytimes.com/pages/todayspaper/index.html), selecionando todo o conteúdo e copiando e colando-o em um Editor de Texto e removendo toda a formatação (através do comando “_make plain text_”). Você pode ter que fazer um pouco de edição extra para remover toda a formatação. O objetivo é mostrar aos participantes uma página inicial típica de um artigo, além do conteúdo como um bloco de texto uniforme e contínuo.
+* Mostre aos participantes as duas páginas; diga-lhes que o conteúdo é o mesmo em ambas as páginas.
 * Discuta juntos - qual é a diferença aqui? O que está faltando? Qual página é mais atraente? Qual página é mais interessante? Qual é mais fácil de ler? Por quê?
 * Discuta em conjunto como elementos como títulos, colunas, linhas de texto, tamanhos de fonte diferentes e blocos de texto ajudam a organizar o conteúdo e direcionam nossos olhos para o que é importante na página.
 
@@ -72,9 +72,9 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 * Conceito-chave! Explique que é assim que os _web designers_ usam o _HyperText Markup Language_ (Linguagem de Marcação Hipertexo): para adicionar formatação ao conteúdo na Web, para que o navegador possa exibi-lo de maneira fácil de ler e interessante.
 * Os _web designers_ usam _“tags”_ de HTML para informar ao navegador o que fazer com o conteúdo.
-    * Pergunte aos alunos, o que é uma _tag_? Onde você tem _tags_? O que eles fazem?
+    * Pergunte aos participantes, o que é uma _tag_? Onde você tem _tags_? O que eles fazem?
 
-> Dica! Se os alunos estiverem com dificuldades, explique: você tem marcações em suas roupas ou na sua bagagem, pessoas marcam você nas mídias sociais, você pode marcar uma postagem no blog... Uma _tag_ é um pouco de informação que você anexa a alguma coisa, para identificá-la de alguma forma ou adicionar instruções especiais.
+> Dica! Se os participantes estiverem com dificuldades, explique: você tem marcações em suas roupas ou na sua bagagem, pessoas marcam você nas mídias sociais, você pode marcar uma postagem no blog... Uma _tag_ é um pouco de informação que você anexa a alguma coisa, para identificá-la de alguma forma ou adicionar instruções especiais.
 
 * Explique: Quando os _web designers_ escrevem HTML, eles pegam partes do conteúdo e “marcam-os” com _tags_ para dizer ao navegador como mostrar esse conteúdo. Eles colocam uma _tag_ no início do conteúdo (a _tag_ de abertura) e uma _tag_ no final (a _tag_ de fechamento), para que o navegador saiba quando iniciar e parar.
 
@@ -84,17 +84,17 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
     * Quando queremos marcar algum conteúdo, nós o cercamos com um par combinado de palavras, cada palavra é cercada por um conjunto de colchetes “< >”.
     * Veja uma _tag_ de exemplo: `<title>` Marque o mundo `</title>`
 
-    > Dica! pergunte aos alunos, neste exemplo, qual é o título?
+    > Dica! pergunte aos participantes, neste exemplo, qual é o título?
 
     * Quando as tags são usadas on-line, os colchetes alertam o software do navegador de que é uma _tag_. A palavra ou caractere dentro de cada colchete informa ao navegador informações importantes sobre o que está dentro dele. <title> é uma _tag_ de abertura - sinalizando que o conteúdo marcado começa aqui.
     * Você pode ver que há algo diferente no segundo conjunto de colchetes: </title> a barra invertida significa que é uma _tag_ de FECHAMENTO - informando ao navegador que a marcação foi concluída.
     * Nós SEMPRE usamos _tags_ de abertura e fechamento para cercar o conteúdo.
 * Com pouquíssimas exceções, as _tags_ são SEMPRE compatíveis com o conteúdo, assim como os exemplos de marcação que discutimos.
-* Informe aos alunos que agora vamos experimentar o CONCEITO de marcação e marcação em atividades off-line antes de nos aprofundarmos e vermos como elas funcionam on-line.
+* Informe aos participantes que agora vamos experimentar o CONCEITO de marcação e marcação em atividades off-line antes de nos aprofundarmos e vermos como elas funcionam on-line.
 
 ### Off-line: Marque o Mundo
 [10 min]
-> Dica! Se os seus alunos parecem confortáveis com o conceito de abertura e fechamento de _tags_ (ou você está pressionado por tempo), você pode pular esta e passar para a próxima seção. Se eles precisarem de mais tempo com esse conceito, faça a atividade Marque o Mundo.
+> Dica! Se os seus participantes parecem confortáveis com o conceito de abertura e fechamento de _tags_ (ou você está pressionado por tempo), você pode pular esta e passar para a próxima seção. Se eles precisarem de mais tempo com esse conceito, faça a atividade Marque o Mundo.
 
 * Introdução: Explique aos participantes que eles experimentarão fazer marcações e atribuir marcações a coisas do mundo real na sala. Distribua folhas de papel, marcadores e fita adesiva. Explique que este é um exercício para mostrar o CONCEITO de marcação e abertura e fechamento de _tags_.
 * Aqui no mundo real, você tem total liberdade para criar seus próprios nomes de _tags_. Mais tarde, veremos que no HTML de codificação, usamos um conjunto restrito de nomes de _tags_ com os quais todos concordam. Mas, por enquanto, crie a _tag_ que quiser.
@@ -107,7 +107,7 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 * Nós SEMPRE usamos _tags_ de abertura e fechamento para cercar o conteúdo.
 * Você pode marcar qualquer coisa na sala - faça suas próprias _tags_ e feche-as!
 
-> Dica! Para ajudar os alunos a começarem, crie uma _tag_ de exemplo e coloque-a na sala - `<cadeira>` `</cadeira>`. Incentive as pessoas a se divertirem e serem criativas!
+> Dica! Para ajudar os participantes a começarem, crie uma _tag_ de exemplo e coloque-a na sala - `<cadeira>` `</cadeira>`. Incentive as pessoas a se divertirem e serem criativas!
 
 ### Off-line: Revolução das Marcações
 [10 min]
@@ -124,7 +124,7 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
     1. Agora selecione duas novas _tags_ e entregue-as aos “Programadores” (por exemplo, `<cantar>` e `</cantar>`).
     1. Repita os passos 3 e 4. Desta vez, quando os “Programadores” passarem as _tags_, qualquer um que esteja entre as _tags_ `<cantar>` terá que cantar. Se algum jogador estiver entre as _tags_ `<palmas>` e as _tags_ `<cantar>`, eles terão que bater palmas e cantar.
     1. Continue estas etapas novamente com o resto das _tags_ (e quaisquer outras _tags_ que você deseja adicionar ao jogo) para fazer uma divertida e complicada festa dançante de _tags_! Quando os “Programadores” tiverem com as _tags_ finais, peça-lhes que se juntem ao círculo onde quer que estejam, quando a música parar (em vez de entregar as _tags_ às pessoas no círculo). Todos entre as _tags_ que os “Programadores” estão segurando executam as ações em suas _tags_.
-    1. Depois que todas as _tags_ forem usadas, você poderá fazer com que os jogadores com _tags_ movam-se um de cada vez para alterar quem está fazendo o quê. Isso ajudará os alunos a entender como as _tags_ são aplicadas ao conteúdo, como elas são abertas e fechadas no HTML.
+    1. Depois que todas as _tags_ forem usadas, você poderá fazer com que os jogadores com _tags_ movam-se um de cada vez para alterar quem está fazendo o quê. Isso ajudará os participantes a entender como as _tags_ são aplicadas ao conteúdo, como elas são abertas e fechadas no HTML.
 * Aqui no mundo real, você tem total liberdade para criar seus próprios nomes de _tags_ - mais tarde veremos que na linguagem de codificação HTML, usamos um conjunto restrito de nomes de _tags_ com os quais todos concordam, que fazem sentido para o conteúdo web. Mas, por enquanto, crie a _tag_ que quiser.
 
 ### Marcação em Ação 
@@ -136,18 +136,18 @@ Os emblemas digitais capturam a evidência e são a demonstração do conhecimen
 
 * Essas _tags_ têm significados acordados, de modo que tanto os desenvolvedores web quanto as pessoas que escrevem o software do navegador entendem o que elas significam. A única razão pela qual essas _tags_ funcionam é por causa desses acordos - se você tentar usar algumas de suas _tags_ divertidas do “Marque o Mundo” ou “Revolução das Marcações” em uma página web, você não verá nada, infelizmente.
 
-> Dica! Se os alunos estiverem confusos sobre quais tipos de _tags_ seriam relevantes em HTML, lembre-os de que HTML significa "_HyperText Markup Language_ (Linguagem de Marcação Hipertexto)" e que atribuímos _tags_ ao conteúdo de texto. Pergunte: por que “parágrafo” seria uma _tag_ HTML e não “palmas” ou “cantar”?
+> Dica! Se os participantes estiverem confusos sobre quais tipos de _tags_ seriam relevantes em HTML, lembre-os de que HTML significa "_HyperText Markup Language_ (Linguagem de Marcação Hipertexto)" e que atribuímos _tags_ ao conteúdo de texto. Pergunte: por que “parágrafo” seria uma _tag_ HTML e não “palmas” ou “cantar”?
 
 * Quando você usa essas _tags_, você está escrevendo HTML! E quando o navegador as vê, ele transformará sua página web de um chato bloco de texto para algo interessante e fácil de ler.
-* Vamos marcar! Faça com que os alunos adicionem _tags_ a algum conteúdo existente.
-* OFF-LINE, para esta parte, você vai precisar de algum conteúdo - talvez uma notícia divertida ou uma biografia de alguém, ou algum outro conteúdo interessante, impresso em folhas 11x7 e cortadas em pedaços - parágrafos, títulos, links, etc. Você também precisará de alguma nota autoadesiva ou papel para _tags_. Escreva as _tags_ ou deixe os alunos criá-las (somente da lista). Divida os usuários em pequenos grupos e dê a cada grupo uma coleção de texto e _tags_.
+* Vamos marcar! Faça com que os participantes adicionem _tags_ a algum conteúdo existente.
+* OFF-LINE, para esta parte, você vai precisar de algum conteúdo - talvez uma notícia divertida ou uma biografia de alguém, ou algum outro conteúdo interessante, impresso em folhas 11x7 e cortadas em pedaços - parágrafos, títulos, links, etc. Você também precisará de alguma nota autoadesiva ou papel para _tags_. Escreva as _tags_ ou deixe os participantes criá-las (somente da lista). Divida os usuários em pequenos grupos e dê a cada grupo uma coleção de texto e _tags_.
 * ON-LINE, Para esta parte, você precisará de um arquivo de texto com algum conteúdo básico não formatado, mesmo tipo acima. Primeiro, peça aos usuários para salvar o arquivo como .html. Explique o objetivo das _tags_ `<head>` e `<title>`. Em seguida, deixe-os digitar as suas _tags_!
 
 > Dica! Para o ON-LINE, crie um arquivo de texto com o conteúdo e peça aos usuários que o editem com o editor de texto MAIS BÁSICO - Bloco de notas em um PC ou TextEdit em um Mac - no modo de texto simples. O(A) facilitador(a) pode precisar explicar o cabeçalho e as _tags_ do título.
 
-* Explique aos alunos que eles precisam primeiro cercar todo o conteúdo com as _tags_ body - para informar ao navegador que todo o conteúdo aqui é para exibição na web!
-* Peça aos alunos para organizar o conteúdo usando as _tags_. Encontre os cabeçalhos mais importantes, divida os parágrafos, adicione pequenos títulos e procure por itens que possam ser _hiperlinks_. Ande pela sala e ajude aqui e ali.
-* No final do exercício, se possível, os alunos on-line e off-line deverão ver a página carregada em um navegador. Os alunos on-line podem salvar e abrir o arquivo .html em um navegador. Para alunos off-line, o(a) facilitador(a) deve, se possível, mostrar a página finalizada em um computador e monitor.
+* Explique aos participantes que eles precisam primeiro cercar todo o conteúdo com as _tags_ body - para informar ao navegador que todo o conteúdo aqui é para exibição na web!
+* Peça aos participantes para organizar o conteúdo usando as _tags_. Encontre os cabeçalhos mais importantes, divida os parágrafos, adicione pequenos títulos e procure por itens que possam ser _hiperlinks_. Ande pela sala e ajude aqui e ali.
+* No final do exercício, se possível, os participantes on-line e off-line deverão ver a página carregada em um navegador. Os participantes on-line podem salvar e abrir o arquivo .html em um navegador. Para participantes off-line, o(a) facilitador(a) deve, se possível, mostrar a página finalizada em um computador e monitor.
 * Explique aos usuários que esses arquivos ainda estão em seus computadores locais e só podem ser visualizados lá. Você ainda não os colocou "on-line" em um servidor, onde outras pessoas podem encontrá-los, portanto, elas não estão na web.
 
 > Dica! Lembre aos usuários da atividade Mapear a Web para ajudá-los a visualizar como o computador cliente está conectado. Eles podem acessar o conteúdo em servidores web, mas outros computadores na Web não podem acessar os arquivos dos clientes.

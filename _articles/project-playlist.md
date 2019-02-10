@@ -12,7 +12,7 @@ toc:
 ![lists](../images/syndicate-1207270_640.jpg)
 
 #### Descrição
-Nesta atividade on-line, os alunos consideram como o compartilhamento seletivo ou “curadoria” de ativos on-line existentes – imagens, vídeo, sons, texto – é parte do uso diário da web e como a web é projetada para incentivar esse tipo de compartilhamento. Em grupos ou individualmente, os alunos selecionam seu próprio conjunto de músicas ou sons do site de compartilhamento de músicas Soundcloud e incorporam os arquivos de mídia nas próprias páginas web como uma lista de reprodução. Eles incluem comentários e descrições que explicam suas seleções – como e por que eles fizeram a curadoria dessa lista de reprodução de músicas específica – para quem visita a página.
+Nesta atividade on-line, os participantes consideram como o compartilhamento seletivo ou “curadoria” de ativos on-line existentes – imagens, vídeo, sons, texto – é parte do uso diário da web e como a web é projetada para incentivar esse tipo de compartilhamento. Em grupos ou individualmente, os participantes selecionam seu próprio conjunto de músicas ou sons do site de compartilhamento de músicas Soundcloud e incorporam os arquivos de mídia nas próprias páginas web como uma lista de reprodução. Eles incluem comentários e descrições que explicam suas seleções – como e por que eles fizeram a curadoria dessa lista de reprodução de músicas específica – para quem visita a página.
 
 #### Objetivos da Aprendizagem
 * Criar uma lista de informações para criar uma lista de reprodução de músicas
